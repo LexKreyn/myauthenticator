@@ -1,0 +1,21 @@
+{
+  "name": "myauthenticator",
+  "version": "1.0.0",
+  "description": "Module for authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/???/???.git"
+  },
+  "keywords": [],
+  "author": "???",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/???/???/issues"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/???/???#readme"
+}
