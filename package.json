@@ -1,5 +1,5 @@
 {
-  "name": "myauthenticator",
+  "name": "lexauthenticator",
   "version": "1.0.0",
   "description": "Module for authentication.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/???/???.git"
+    "url": "git+https://github.com/LexKreyn/myauthenticator.git"
   },
   "keywords": [],
   "author": "???",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/???/???/issues"
+    "url": "https://github.com/LexKreyn/myauthenticator/issues"
   },
   "dependencies": {},
-  "homepage": "https://github.com/???/???#readme"
+  "homepage": "https://github.com/LexKreyn/myauthenticator#readme"
 }
